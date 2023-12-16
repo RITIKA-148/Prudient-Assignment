@@ -1,0 +1,44 @@
+.pic{
+    width: 71%;
+    border-radius: 30px;
+border: 1px solid rgba(131, 164, 209, 0.20);
+opacity: 0.5;
+background:  lightgray 0px -13.517px / 100% 131.437% no-repeat, #1A293C;
+}
+.image1{
+    margin-top: 0%;
+    margin-right: 6%;
+    margin-left: 12%;
+}
+.form-control{
+    width: 348px;
+    margin-left: 21%;
+
+}
+
+.container{
+    height: 84vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    /* border-radius: 25px; */
+    border-radius: 50px;
+background: linear-gradient(108deg, #323E4F 0%, #061220 68.05%);
+  
+}
+.login{
+    margin-top: 4%;
+    color: white;
+    border-radius: 30px;
+    border: 1px solid rgba(131, 164, 209, 0.20);
+    opacity: 0.5;
+    background: #1A293C;
+    height: 350px;
+    margin-left: 8%;
+    margin-right: 12%;
+}
+.btn{
+    margin-left: 37%;
+  margin-top: 18%;
+}
